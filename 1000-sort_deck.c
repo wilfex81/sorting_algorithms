@@ -125,3 +125,4 @@ void sort_deck(deck_node_t **deck)
 		head = head->next;
 	}
 }
+
