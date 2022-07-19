@@ -1,5 +1,6 @@
 #include "sort.h"
 #include <stdio.h>
+
 /**
  * _swap - swaped 2 values.
  * @array: the array for swap him values.
